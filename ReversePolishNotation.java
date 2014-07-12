@@ -1,4 +1,4 @@
-public class Solution {
+public class ReversePolishNotation {
     private java.util.Vector<String> polishStr = new java.util.Vector<String>();
     private java.util.Vector<String> numbersVec = new java.util.Vector<String>();
     private java.util.Vector<String> operatorsVec = new java.util.Vector<String>();
